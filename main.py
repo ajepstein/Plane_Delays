@@ -1215,3 +1215,6 @@ if __name__ == "__main__":
 
     print("PERFORMING LOG REG ANALYSIS")
     perform_LogReg_analysis()
+    
+    print("Performing Random Forest Classifying")
+    perform_RF_analysis()
